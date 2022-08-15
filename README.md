@@ -1,6 +1,6 @@
 ### Hi there 👋, I am RekiDunois
 
-- ⚒️ C++ / Qt / Github Action / .Net / TypeScript / React
+- ⚒️ C++ / Qt / .Net / TypeScript / React
 - ✏️ Mac / Windows / Debian / fish in all platforms(except CentOS) 
 - ✍️ Visual Studio / VS Code / Neovim
 - 👨‍🦲 Pronouns: he/him
