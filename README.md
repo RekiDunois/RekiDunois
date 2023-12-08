@@ -11,6 +11,7 @@
 - ✏️ Mac / Windows / Debian / fish in all platforms(except CentOS) 
 - ✍️ Visual Studio / VS Code / Neovim
 - 👨‍🦲 Pronouns: he/him
+- 🌐️ 中文 / English / 日本語
 - 📢 Ask me anything with email
 
 this profile page was inspire by [Yufan You](https://github.com/ouuan)
